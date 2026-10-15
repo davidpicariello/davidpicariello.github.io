@@ -1,3 +1,3 @@
-[davidpicariello.com](http://www.davidpicariello.com)
+# [davidpicariello.com](https://davidpicariello.com)
 
-This website is an example of flex as well as responsive web design using media queries
+David Picariello's personal website.
